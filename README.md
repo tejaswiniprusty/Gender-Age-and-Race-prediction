@@ -1,2 +1,2 @@
 # Gender-Age-and-Race-prediction
-Using Convolutional Neural Networks (CNNs) for gender, age, and race recognition has become increasingly popular due to CNNs' ability to capture intricate patterns in images. 
+Gender, age, and race recognition using Convolutional Neural Networks (CNNs) is a computer vision approach that automatically classifies a person's gender, age group, and race based on facial images. CNNs are highly effective for this task due to their ability to detect and learn hierarchical features from images, such as edges, textures, and complex facial features, which are crucial for distinguishing age, gender, and racial characteristics.
